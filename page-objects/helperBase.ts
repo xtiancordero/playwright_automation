@@ -8,8 +8,8 @@ export class HelperBase {
         this.page = page
     }
 
-    async validateTextsAreEqual(expectedText: any, actualText: any) {
-        expect(expectedText).toEqual(actualText)
+    async validateTextsAreEqual(expectedText: string, actualText: string) {
+        expect(actualText).toEqual(expectedText)
 
     }
 }

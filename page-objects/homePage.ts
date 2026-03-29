@@ -27,6 +27,6 @@ export class HomaPage {
 
         await articleTitleToDelete.click()
         await deleteButton.click()
-        await this.page.waitForTimeout(1000)
+        await this.page.waitForURL('https://conduit.bondaracademy.com/')
     }
 }

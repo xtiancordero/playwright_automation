@@ -6,7 +6,7 @@
   "scripts": {
     "postinstall": "npm update browserstack-node-sdk",
     "execute-in-browserstack": "npx browserstack-node-sdk playwright test",
-    "execute-in-local": "npx playwright test"
+    "execute-in-local": "npx playwright test --project=chromium --headed"
   },
   "keywords": [],
   "author": "",
