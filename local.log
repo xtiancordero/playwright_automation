@@ -1,0 +1,40 @@
+
+Sun Mar 29 2026 10:12:58:874 GMT+0800 (Taipei Standard Time) -- Binary semantic version is v8.9.26
+Sun Mar 29 2026 10:12:58:874 GMT+0800 (Taipei Standard Time) -- Setting output as extra verbose with request parsing
+Sun Mar 29 2026 10:13:02:580 GMT+0800 (Taipei Standard Time) -- Starting configuration console on http://localhost:45454
+Sun Mar 29 2026 10:13:03:209 GMT+0800 (Taipei Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Mar 29 2026 10:13:04:919 GMT+0800 (Taipei Standard Time) -- undefined
+Sun Mar 29 2026 10:13:06:339 GMT+0800 (Taipei Standard Time) -- Connecting to BrowserStack using WebSocket protocol...
+Sun Mar 29 2026 10:13:06:339 GMT+0800 (Taipei Standard Time) -- Platform supports WebSocket connections.
+
+Sun Mar 29 2026 10:13:06:448 GMT+0800 (Taipei Standard Time) -- Press Ctrl-C to exit
+
+
+
+Sun Mar 29 2026 10:13:20:164 GMT+0800 (Taipei Standard Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Sun Mar 29 2026 10:13:22:756 GMT+0800 (Taipei Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Mar 29 2026 10:13:25:609 GMT+0800 (Taipei Standard Time) -- Press Ctrl-C to exit
+
+
+
+Sun Mar 29 2026 12:44:05:829 GMT+0800 (Taipei Standard Time) -- Binary semantic version is v8.9.26
+Sun Mar 29 2026 12:44:05:829 GMT+0800 (Taipei Standard Time) -- Setting output as extra verbose with request parsing
+Sun Mar 29 2026 12:44:09:371 GMT+0800 (Taipei Standard Time) -- Starting configuration console on http://localhost:45454
+Sun Mar 29 2026 12:44:10:257 GMT+0800 (Taipei Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Mar 29 2026 12:44:11:871 GMT+0800 (Taipei Standard Time) -- undefined
+Sun Mar 29 2026 12:44:13:343 GMT+0800 (Taipei Standard Time) -- Connecting to BrowserStack using WebSocket protocol...
+Sun Mar 29 2026 12:44:13:343 GMT+0800 (Taipei Standard Time) -- Platform supports WebSocket connections.
+
+Sun Mar 29 2026 12:44:13:457 GMT+0800 (Taipei Standard Time) -- Press Ctrl-C to exit
+
+
+
+Sun Mar 29 2026 12:44:21:222 GMT+0800 (Taipei Standard Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Sun Mar 29 2026 12:44:24:89 GMT+0800 (Taipei Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Mar 29 2026 12:44:27:311 GMT+0800 (Taipei Standard Time) -- Press Ctrl-C to exit
+
+
